@@ -1,5 +1,5 @@
 # Emotion-Detector	
-Emotion Detector using Machine learning (Python) TensorFlow, OpenCV  
+Emotion Detector using Machine learning (Python) TensorFlow 2.9.1, OpenCV  
 	
 
 This project uses deep learning (CNN) to recognize human emotions like happy, sad, anger, neutral etc.	
