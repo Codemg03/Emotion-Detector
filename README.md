@@ -7,9 +7,9 @@
 	
 	
 #### Features:-		
-It is real -time emotion detector from image input.			
+It is real -time emotion detector from image input.		
 It supports seven types of emotion.		
-It has user-friendly interface for easy interaction.																		
+It has user-friendly interface for easy interaction.																			
 	
 #### Requirements:		
 Python, Tensorflow 2.9.1, OpenCv, Numpy, Pandas	
